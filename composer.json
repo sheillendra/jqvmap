@@ -1,0 +1,22 @@
+{
+	"name": "sheillendra/jqvmap",
+	"description": "jqvmap",
+	"keywords": ["jqvmap"],
+	"type": "yii2-extension",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Sheillendra",
+			"email": "sheillendra@yahoo.com"
+		}
+	],
+	"require": {
+		"yiisoft/yii2": "*",
+		"sheillendra/yii2-theme": "*"
+	},
+	"autoload": {
+		"psr-4": {
+			"sheillendra\\jqvmap\\": ""
+		}
+	}
+}
