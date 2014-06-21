@@ -6,13 +6,12 @@
 	"license": "MIT",
 	"authors": [
 		{
-			"name": "Sheillendra",
+			"name": "Peter Schmalfeldt",
 			"email": "sheillendra@yahoo.com"
 		}
 	],
 	"require": {
-		"yiisoft/yii2": "*",
-		"sheillendra/yii2-theme": "*"
+		"yiisoft/yii2": "*"
 	},
 	"autoload": {
 		"psr-4": {
